@@ -4,9 +4,9 @@ import glob
 
 # ================== НАСТРОЙКИ ==================
 # Путь к папке с PDF-файлами (измените на свою)
-PDF_FOLDER = r'C:\Users\jvk79\Documents\кат'   # папка, где лежат ваши PDF
+PDF_FOLDER = r'C:\Users\...\Documents\кат'   # папка, где лежат ваши PDF
 # Путь для сохранения итогового текстового файла
-OUTPUT_FILE = r'C:\Users\jvk79\Documents\кат\full_document.txt'
+OUTPUT_FILE = r'C:\Users\...\Documents\кат\full_document.txt'
 # ===============================================
 
 def extract_text_from_pdf(pdf_path):
